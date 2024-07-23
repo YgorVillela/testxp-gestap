@@ -18,7 +18,7 @@ namespace InvestmentPortfolioManagement.Controllers
         [HttpPost("send-test-email")]
         public async Task<IActionResult> SendTestEmail()
         {
-            var to = "ygor.villela35@gmail.com"; // Substitua pelo e-mail real
+            var to = "email@example.com";
             var subject = "Test Email";
             var body = "This is a test email sent from the EmailService.";
 

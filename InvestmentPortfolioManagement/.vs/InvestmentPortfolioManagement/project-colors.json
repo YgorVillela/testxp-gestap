@@ -5,7 +5,22 @@
       "ProjectGuid": "1597970b-23b4-4985-9513-dedf2a1e741b",
       "DisplayName": "InvestmentPortfolioManagement",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1e1db2bc-fc7c-4c06-84a1-6ccad9e5d780": {
+      "ProjectGuid": "1e1db2bc-fc7c-4c06-84a1-6ccad9e5d780",
+      "DisplayName": "TesteEmail",
+      "ColorIndex": 1
+    },
+    "8b5083a5-7adb-4b56-8836-b60f5157515b": {
+      "ProjectGuid": "8b5083a5-7adb-4b56-8836-b60f5157515b",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
